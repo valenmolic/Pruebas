@@ -45,9 +45,7 @@
   <ItemGroup>
     <Compile Include="Configuru.cs" />
     <Compile Include="Datos.cs" />
-    <Compile Include="entidades.cs" />
     <Compile Include="Logica.cs" />
-    <Compile Include="OtraSolii.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
